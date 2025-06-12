@@ -24,8 +24,8 @@ Proses sortasi manual memiliki banyak tantangan, termasuk subjektivitas penilaia
 
 1. Clone repositori ini:
 ```
-git clone <url-repositori>
-cd Co-Clas
+git clone https://github.com/Nuramuiop/LaskarAICapstone
+cd LaskarAICapstone
 ```
 
 2. Instal semua dependensi:
@@ -56,8 +56,4 @@ Proyek ini diharapkan menghasilkan model machine learning yang siap diuji di lap
 
 ## Tim Pengembang
 
-Laskar AI Capstone Project Team
-
-## Lisensi
-
-[MIT License](LICENSE)
+Laskar AI LAI25-RM114

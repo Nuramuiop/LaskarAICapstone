@@ -85,7 +85,7 @@ def main():
                 st.write(descriptions[predicted_label])
     
     st.markdown("---")
-    st.markdown("© 2023 Co-Clas | Laskar AI Capstone Project")
+    st.markdown("© 27 Mei 2025 Co-Clas")
 
 if __name__ == "__main__":
     main()
